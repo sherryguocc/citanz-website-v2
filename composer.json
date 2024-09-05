@@ -18,7 +18,8 @@
         "cita/ecommerce": "dev-develop",
         "diversen/image-auto-rotate": "^1.0",
         "pelago/emogrifier": "^6.0",
-        "aws/aws-sdk-php": "^3.298"
+        "aws/aws-sdk-php": "^3.298",
+        "silverstripe/framework": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7"
